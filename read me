@@ -1,0 +1,14 @@
+This code does a few things:
+
+It grabs some pictures from a dataset called CIFAR-10.
+It makes sure the pictures are in a good shape for the computer to understand.
+It builds a special kind of program called a neural network that learns from these pictures.
+It gets this program ready to learn by setting up some rules.
+It teaches the program using the pictures, making it a little smarter each time.
+It checks how well the program learned.
+It draws a picture to show how well the program did in learning over time.
+
+
+
+
+
